@@ -2,4 +2,6 @@ after adding new line in gitFile.docx to test git stash and sent the file to sta
 
 adding the changes in develop branch
 
+changes done for feature1 branch
 changes done for feature2 branch
+
